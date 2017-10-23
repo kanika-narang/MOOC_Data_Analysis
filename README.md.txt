@@ -20,3 +20,6 @@ educational background and location. Learners are not only limited to a single t
 Data Overview:
     Open source data taken from Kaggle, it provides data on 290 Harvard and MIT online courses, 
 250 thousand certifications, 4.5 million participants, and 28 million participant hours on the edX platform since 2012. 
+
+Business Understanding Dcument:- https://docs.google.com/document/d/1VJ3TkJ1oHWT9y2j5BqyI610u49DMnCmwnHUxi24O0XQ/edit?ts=59e1d63e#
+Data Understanding Document:- https://docs.google.com/document/d/1orasWTsKbTfQ1AT6QCwjPkwoFyGQSddfjMxRRG7rFRo/edit
