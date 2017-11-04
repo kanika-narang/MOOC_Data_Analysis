@@ -1,6 +1,4 @@
 
-
-
 big_student_data<- read.csv('/home/kanika/Documents/3rd_Sem/github/Data_Analytics_Project/MOOC_Data_Analysis/DATA/HMXPC13_DI_v2_5-14-14_1.csv')
 
 # spliting column called course_id into 4 columns called Institute, course_id,semester,year.
