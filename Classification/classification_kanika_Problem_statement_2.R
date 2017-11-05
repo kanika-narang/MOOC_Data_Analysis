@@ -156,3 +156,5 @@ print(
                   positive='1'))
 T1<-getTree(rf1, 10, labelVar = TRUE)
 plot(T1)
+
+write.csv(student_data_dataverse,'/home/kanika/Documents/3rd_Sem/github/Data_Analytics_Project/MOOC_Data_Analysis/DATA/cleaned data/big_student_clear_third_version.csv')
